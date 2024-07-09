@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "755135476252",
+    "project_id": "giphy-app-37f21",
+    "storage_bucket": "giphy-app-37f21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755135476252:android:eb8d2701e4831261d925d9",
+        "android_client_info": {
+          "package_name": "com.example.giphy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755135476252-rh0065t9quk3flggtuj5hhf15im3oc82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giphy_app",
+            "certificate_hash": "f8ee29670350b04ca5853438b17bb6ec2e0f557b"
+          }
+        },
+        {
+          "client_id": "755135476252-k7vdq3qabng8p6hkni1g5grkjn3cmelj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWEQ-CTNgYhWI6U3qHD4hi8zctvrSMQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755135476252-k7vdq3qabng8p6hkni1g5grkjn3cmelj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
